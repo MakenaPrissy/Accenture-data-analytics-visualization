@@ -1,6 +1,7 @@
 # Project: An Analysis to find Social Buzz's Top 5 most popular categories of content
 ## Project Overview
 Completed a project as part of the Accenture Data Analytics and Visualization Job Simulation, utilizing Excel for data cleaning, modeling, and visualization tasks. The project focuses on transforming raw data into actionable insights, presenting results through effective storytelling techniques for a client-focused presentation.
+
 **Project Background**: To give context, Social Buzz platform receives over 100000 posts per day which amounts to 36 500 000 posts every year, of which, this is all unstructured data making it very hard to make sense of. In this day and age, content is king. But how to capitalize on it when there is so much?
 
 ### Data Sources
